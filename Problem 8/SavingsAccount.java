@@ -5,6 +5,6 @@ class SavingsAccount extends BaseAccount {
     }
 
     double interestRate() {
-        return 0.04;   // 4% interest
+        return 0.04;  
     }
 }
